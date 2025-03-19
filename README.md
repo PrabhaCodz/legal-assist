@@ -39,14 +39,14 @@ Understanding legal frameworks can be challenging for common people. This projec
 <table>
   <tr>
     <td><img src="./assets/login.jpg" width="250" alt="Home Screen"></td>
-    <td><img src="./assets/logup.jpg" width="250" alt="Chatbot Interface"></td>
+    <td><img src="./assets/Logup.jpg" width="250" alt="Chatbot Interface"></td>
   </tr>
   <tr>
-    <td><img src="./assets/home.jpg" width="250" alt="Profile Page"></td>
-    <td><img src="./assets/Category.jpg" width="250" alt="Settings Page"></td>
+    <td><img src="./assets/Home.jpg" width="250" alt="Profile Page"></td>
+    <td><img src="./assets/category.jpg" width="250" alt="Settings Page"></td>
   </tr>
   <tr>
-    <td><img src="./assets/Chatbot.jpg" width="250" alt="Legal Categories"></td>
+    <td><img src="./assets/chatbot.jpg" width="250" alt="Legal Categories"></td>
     <td><img src="./assets/profile.jpg" width="250" alt="FAQ Section"></td>
   </tr>
 </table>
