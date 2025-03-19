@@ -31,11 +31,26 @@ Understanding legal frameworks can be challenging for common people. This projec
 
 ---
 
+
 ## 📸 Screenshots
-![Login](./assets/login.jpg)
-![Home Screen](./screenshots/home.png)
-![Chatbot Interface](./screenshots/chatbot.png)
-![Profile Page](./screenshots/profile.png)
+
+### User Interface Preview
+
+<table>
+  <tr>
+    <td><img src="./assets/login.jpg" width="250" alt="Home Screen"></td>
+    <td><img src="./assets/logup.jpg" width="250" alt="Chatbot Interface"></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/home.jpg" width="250" alt="Profile Page"></td>
+    <td><img src="./assets/Category.jpg" width="250" alt="Settings Page"></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/Chatbot.jpg" width="250" alt="Legal Categories"></td>
+    <td><img src="./assets/profile.jpg" width="250" alt="FAQ Section"></td>
+  </tr>
+</table>
+
 
 > Add your images in the `screenshots/` folder and update the paths accordingly.
 
