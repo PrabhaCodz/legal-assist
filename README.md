@@ -32,6 +32,7 @@ Understanding legal frameworks can be challenging for common people. This projec
 ---
 
 ## 📸 Screenshots
+![Login](./assets/login.jpg)
 ![Home Screen](./screenshots/home.png)
 ![Chatbot Interface](./screenshots/chatbot.png)
 ![Profile Page](./screenshots/profile.png)
