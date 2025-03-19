@@ -52,10 +52,6 @@ Understanding legal frameworks can be challenging for common people. This projec
 </table>
 
 
-> Add your images in the `screenshots/` folder and update the paths accordingly.
-
----
-
 ## 🚀 Installation & Setup
 
 1️⃣ Clone this repository:
