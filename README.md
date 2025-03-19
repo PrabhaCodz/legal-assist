@@ -1,4 +1,4 @@
-# 🏛️ Legal Assistance Chatbot
+# PROJECT PHASE - 1 :  🏛️ Legal Assistance Chatbot
 
 An AI-powered legal chatbot designed to provide users with simplified and accessible legal information. The chatbot categorizes legal topics and assists users with queries while ensuring **privacy and security** using blockchain.
 
@@ -11,9 +11,9 @@ Understanding legal frameworks can be challenging for common people. This projec
 ### Key Features:
 ✅ AI-powered chatbot with legal knowledge
 ✅ Categorized legal topics for easy navigation
-✅ Works **both online & offline** with preloaded legal content
+✅ Works **online** with preloaded legal content
 ✅ Uses **blockchain** for data privacy and authentication
-✅ Developed using **React Native (Frontend) & JavaScript (Backend)**
+✅ Developed using **React Native (Frontend) & Python-Flask (Backend)**
 
 ---
 
@@ -22,7 +22,7 @@ Understanding legal frameworks can be challenging for common people. This projec
 | Technology | Usage |
 |------------|--------|
 | **React Native** | Frontend (User Interface) |
-| **JavaScript (Node.js, Express.js)** | Backend API & chatbot logic |
+| **Python(Flask)** | Backend API & chatbot logic |
 | **Firebase/Auth** | User authentication |
 | **Expo CLI** | Mobile development framework |
 | **Blockchain (Ethereum, Solidity, Metamask, Ganache)** | Data privacy and security |
@@ -72,5 +72,5 @@ This project is licensed under the MIT License.
 
 ## 📞 Contact
 🔗 **LinkedIn:** [prabhakaran-s-r](https://www.linkedin.com/in/prabhakaran-s-r)  
-🌐 **Portfolio:** [Your Portfolio Link]  
-📧 **Email:** [Your Email]
+ 
+📧 **Email:** [srprabha17@gmail.com]
