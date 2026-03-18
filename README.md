@@ -1,4 +1,4 @@
-# PROJECT PHASE - 1 :  🏛️ Legal Assistance Chatbot
+# PROJECT  :  🏛️ Legal Assistance Chatbot
 
 An AI-powered legal chatbot designed to provide users with simplified and accessible legal information. The chatbot categorizes legal topics and assists users with queries while ensuring **privacy and security** using blockchain.
 
