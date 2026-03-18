@@ -22,7 +22,7 @@ Understanding legal frameworks can be challenging for common people. This projec
 | Technology | Usage |
 |------------|--------|
 | **React Native** | Frontend (User Interface) |
-| **Python(Flask)** | Backend API & chatbot logic |
+| **Python** | Backend API & chatbot logic |
 | **Firebase/Auth** | User authentication |
 | **Expo CLI** | Mobile development framework |
 | **Blockchain (Ethereum, Solidity, Metamask, Ganache)** | Data privacy and security |
